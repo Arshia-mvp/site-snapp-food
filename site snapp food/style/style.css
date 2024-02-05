@@ -1,0 +1,224 @@
+body{
+    background-color: rgba(220, 220, 220, 0.870);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.li-1{
+    display: block;
+    position: absolute;
+    transform: translate(250px,100px);
+    font-size: 17px;
+}
+.button{
+    background-color: #ff00a6b7;
+    padding: 15px 62px;
+    position: absolute;
+    transform: translate(85px,87px);
+    border-radius: 8px;
+}
+.button:hover{
+    background-color: #ff00a6;
+}
+.span{
+    position: absolute;
+    transform: translate(170px,100px);
+    font-size: 20px;
+    color: white;
+}
+.span-1{
+    position: absolute;
+    transform: translate(153px,100px);
+    font-size: 21px;
+    color: white;
+}
+.span-2{
+    position: absolute;
+    transform: translate(95px,100px);
+    font-size: 20px;
+    color: white;
+}
+.svg{
+    position: absolute;
+    transform: translate(365px,95px);
+}
+.svg-1{
+    position: absolute;
+    transform: translate(1135px,85px);
+}
+.img-1{
+    width: 100px;
+    position: absolute;
+    transform: translate(80px,150px);
+    width: 670px;
+    height: 600px;
+}
+.p{
+    color: #3a3d42;
+    font-size: 50px;
+    position: absolute;
+    transform: translate(1045px,300px);
+}
+.p-1{
+    color: #ff00a6;
+    font-size: 60px;
+    position: absolute;
+    transform: translate(970px,300px);
+}
+.p-2{
+    color: rgba(0, 0, 0, 0.842);
+    position: absolute;
+    transform: translate(1000px,370px);
+    font-size: 20px;
+}
+.p-3{
+    color: #a6aaad;
+    position: absolute;
+    transform: translate(1070px,443px);
+    font-size: 20px;
+}
+.input{
+    color: #fff;
+    height: 50px;
+    position: absolute;
+    transform: translate(930px,430px);
+    border-radius: 20px;
+    width: 365px;
+}
+.svg-2{
+    position: absolute;
+    transform: translate(1260px,445px);
+}
+.box-1{
+    width: 45px;
+    height: 44px;
+    background-color: #ff00a6;
+    border-radius: 50%;
+    position: absolute;
+    transform: translate(935px,433px);
+}
+.box-2{
+    background-color: rgba(220, 220, 220, 0.915);
+    width: 85vw;
+    height: 120px;
+    transform: translate(120px,575px);
+    border-radius: 25px;
+}
+.img-2{
+    position: absolute;
+    transform: translate(170px,470px);
+    width: 55px;
+}
+.span-3{
+    position: absolute;
+    transform: translate(182px,540px);
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.82);
+}
+.img-3{
+    width: 50px;
+    position: absolute;
+    transform: translate(295px,475px);
+}
+.span-4{
+    position: absolute;
+    transform: translate(306px,545px);
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.82);
+}
+.img-4{
+    width: 50px;
+    position: absolute;
+    transform: translate(420px,470px);
+}
+.span-5{
+    position: absolute;
+    transform: translate(403px,545px);
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.82);
+}
+.img-5{
+    width: 50px;
+    position: absolute;
+    transform: translate(535px,470px);
+}
+.span-6{
+    position: absolute;
+    transform: translate(540px,545px);
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.82);
+}
+.img-6{
+    width: 50px;
+    position: absolute;
+    transform: translate(645px,475px);
+}
+.span-7{
+    position: absolute;
+    transform: translate(655px,545px);
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.82);
+}
+.img-7{
+    width: 50px;
+    position: absolute;
+    transform: translate(750px,475px);
+}
+.span-8{
+    position: absolute;
+    transform: translate(750px,545px);
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.82);
+}
+.img-8{
+    width: 50px;
+    position: absolute;
+    transform: translate(855px,473px);
+}
+.span-9{
+    position: absolute;
+    transform: translate(857px,545px);
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.82);
+}
+.img-9{
+    width: 50px;
+    position: absolute;
+    transform: translate(960px,470px);
+}
+.span-10{
+    position: absolute;
+    transform: translate(970px,545px);
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.82);
+}
+.img-10{
+    width: 50px;
+    position: absolute;
+    transform: translate(1070px,473px);
+}
+.p-4{
+    position: absolute;
+    transform: translate(1055px,545px);
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.82);
+}
+.img-11{
+    width: 50px;
+    position: absolute;
+    transform: translate(1180px,473px);
+}
+.p-5{
+    position: absolute;
+    transform: translate(1180px,545px);
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.82);
+}
+i-1{
+    position: absolute;
+    transform: translate(949px,325px);
+    font-size: 18px;
+    color: white;
+}
